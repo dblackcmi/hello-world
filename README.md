@@ -1,3 +1,2 @@
 # hello-world
-first example
-test
+first example test
